@@ -1,0 +1,5 @@
+tau=0.01
+theta=0.8
+n_particles=1000
+M_particles=0.01
+T = 10
